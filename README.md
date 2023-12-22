@@ -1,4 +1,6 @@
 # Correlation and regression for data analysis
+## NAME : KAMALESH R
+## REEGISTER NUMBER : 212223230094
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
